@@ -4,12 +4,12 @@
 Proyek ini merupakan tugas untuk ujian tengah semester pada mata kuliah Kecerdasan Buatan yang diajar oleh dosen Agung Perdananto. Dalam proyek ini, kami menganalisis data perusahaan dan karyawan menggunakan Python, serta menerapkan beberapa fungsi untuk mengolah dan menampilkan data dalam format yang sesuai.
 
 ## Data
-Proyek ini menggunakan dua daftar data:
+Proyek menggunakan dua daftar data:
 1. **company_detail_list**: Berisi informasi tentang perusahaan, termasuk nama, domain, dan negara.
 2. **employee_detail_list**: Berisi informasi tentang karyawan, termasuk nama lengkap, perusahaan tempat mereka bekerja, dan kewarganegaraan.
 
 ## Tugas
-Proyek ini mencakup beberapa tugas yang meliputi:
+Proyek mencakup beberapa tugas yang meliputi:
 1. Mengambil daftar semua perusahaan dan mengurutkannya berdasarkan nama perusahaan dalam urutan terbalik.
 2. Mencetak semua nilai domain di setiap perusahaan.
 3. Mengelompokkan semua karyawan berdasarkan domain perusahaan.
@@ -18,7 +18,7 @@ Proyek ini mencakup beberapa tugas yang meliputi:
 
 ## Cara Menjalankan Proyek
 1. Pastikan Anda memiliki Python dan library yang diperlukan (seperti `json`) terinstal di sistem Anda.
-2. Salin kode yang tersedia dalam file ini dan jalankan menggunakan Google Colab atau lingkungan Python lainnya.
+2. Salin kode yang tersedia dalam file ini dan jalankan menggunakan Google Colab, Jupyter notebook atau lingkungan Python lainnya.
 3. Lihat output dari setiap tugas di konsol.
 
 ## Instalasi
