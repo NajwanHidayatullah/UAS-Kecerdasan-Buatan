@@ -17,7 +17,7 @@ Proyek mencakup beberapa tugas yang meliputi:
 5. Mengembalikan perusahaan dengan jumlah kewarganegaraan karyawan yang bekerja di perusahaan tersebut.
 
 ## Cara Menjalankan Proyek
-1. Pastikan Anda memiliki Python dan library yang diperlukan (seperti `json`) terinstal di sistem Anda.
+1. Pastikan Anda memiliki Python dan library yang diperlukan terinstal di sistem Anda.
 2. Salin kode yang tersedia dalam file ini dan jalankan menggunakan Google Colab, Jupyter notebook atau lingkungan Python lainnya.
 3. Lihat output dari setiap tugas di konsol.
 
