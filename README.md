@@ -1,4 +1,4 @@
-# Proyek Ujian Tengah Semester - Kecerdasan Buatan
+# Ujian Tengah Semester - Kecerdasan Buatan
 
 ## Deskripsi
 Proyek ini merupakan tugas untuk ujian tengah semester pada mata kuliah Kecerdasan Buatan yang diajar oleh dosen Agung Perdananto. Dalam proyek ini, kami menganalisis data perusahaan dan karyawan menggunakan Python, serta menerapkan beberapa fungsi untuk mengolah dan menampilkan data dalam format yang sesuai.
